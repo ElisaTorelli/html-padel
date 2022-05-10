@@ -12,6 +12,27 @@ h1{
 
 }
 
+h2, h3{
+    font-family: 'Koulen', cursive;
+    font-size: 3rem;
+    color: #1e143a;
+    text-align: center; 
+}
+
+h4{
+    font-family: 'Nanum Gothic', sans-serif;
+    color: #1e143a;
+    text-align: right; 
+    font-size: 1rem;
+}
+
+p{
+    font-family: 'Koulen', cursive;
+    font-size: 1.5rem;
+    color: #1e143a;
+    text-align: center; 
+}
+
 /* PLAYERS RANKING */
 #testimonials {
     background-color: #90E0EF;
@@ -32,3 +53,37 @@ h1{
     padding: 7% 15%;
 }
 
+/* TOP 3 PADDEL RACKETS LIST */
+#paddle-rackets {
+    padding: 100px;
+}
+
+.racket-text{
+    font-size: 2.5rem;
+    line-height: 1.5;
+}
+
+.racket-column {
+    padding: 3% 2%;
+}
+
+/* TOUR DATES LIST */
+.list-title{
+    font-family: 'Koulen', cursive;
+    font-size: 1.8rem;
+    color: #1e143a;
+    text-align: center; 
+}
+
+.list-group-item{
+    background-color: #d7e9ec;
+}
+
+/* PADEL COURTS */
+.padel-court-image-1{
+    padding-left: 250px;
+}
+
+.padel-court-image-2{
+    padding-left: 100px;
+}
